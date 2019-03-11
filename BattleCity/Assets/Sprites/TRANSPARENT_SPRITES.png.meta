@@ -1,0 +1,898 @@
+fileFormatVersion: 2
+guid: 1bbee8f8f62cdb545aeda155bac2ddb5
+timeCreated: 1454028007
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PLAYER_TIER1_ANIM1
+    21300002: PLAYER_TIER1_ANIM2
+    21300004: ENEMY_TIER1_ANIM1
+    21300006: ENEMY_TIER1_ANIM2
+    21300008: ENEMYDROP_TIER1_ANIM1
+    21300010: ENEMYDROP_TIER1_ANIM2
+    21300012: WATER_ANIM2
+    21300014: FOREST
+    21300016: SHIELD_ANIM1
+    21300018: SHIELD_ANIM2
+    21300020: PLAYER_TIER2_ANIM1
+    21300022: PLAYER_TIER2_ANIM2
+    21300024: ENEMY_TIER2_ANIM1
+    21300026: ENEMY_TIER2_ANIM2
+    21300028: ENEMYDROP_TIER2_ANIM1
+    21300030: ENEMYDROP_TIER2_ANIM2
+    21300032: WATER_ANIM3
+    21300034: WATER_ANIM1
+    21300036: EXPLOSION_SMALL_ANIM1
+    21300038: EXPLOSION_SMALL_ANIM2
+    21300040: EXPLOSION_SMALL_ANIM3
+    21300042: PLAYER_TIER3_ANIM1
+    21300044: PLAYER_TIER3_ANIM2
+    21300046: ENEMY_TIER3_ANIM1
+    21300048: ENEMY_TIER3_ANIM2
+    21300050: ENEMYDROP_TIER3_ANIM1
+    21300052: ENEMYDROP_TIER3_ANIM2
+    21300054: TRANSPARENT_SPRITES_27
+    21300056: WALL_BRICK_UP_1
+    21300058: WALL_BRICK_UP_2
+    21300060: TRANSPARENT_SPRITES_30
+    21300062: EXPLOSION_BIG_ANIM1
+    21300064: EXPLOSION_BIG_ANIM2
+    21300066: WALL_BRICK_DOWN_1
+    21300068: WALL_BRICK_DOWN_2
+    21300070: PLAYER_TIER4_ANIM1
+    21300072: PLAYER_TIER4_ANIM2
+    21300074: ENEMY_TIER4_ANIM1
+    21300076: ENEMY_TIER4_ANIM2
+    21300078: ENEMYDROP_TIER4_ANIM1
+    21300080: ENEMYDROP_TIER4_ANIM2
+    21300082: ICE
+    21300084: PLAYER_BASE_DEAD
+    21300086: SPAWN_ANIM1
+    21300088: SPAWN_ANIM2
+    21300090: SPAWN_ANIM3
+    21300092: SPAWN_ANIM4
+    21300094: PLAYER_BASE_LIVE
+    21300096: TEXT_PAUSE
+    21300098: TRANSPARENT_SPRITES_49
+    21300100: TRANSPARENT_SPRITES_50
+    21300102: TRANSPARENT_SPRITES_51
+    21300104: TEXT_GAMEOVER
+    21300106: FLAG
+    21300108: PICKUP_SHIELD
+    21300110: PICKUP_FREEZE
+    21300112: PICKUP_BASEBLOCK
+    21300114: PICKUP_LEVELUP
+    21300116: TRANSPARENT_SPRITES_58
+    21300118: SCORE_100
+    21300120: TRANSPARENT_SPRITES_60
+    21300122: TRANSPARENT_SPRITES_61
+    21300124: TRANSPARENT_SPRITES_62
+    21300126: TRANSPARENT_SPRITES_63
+    21300128: TRANSPARENT_SPRITES_64
+    21300130: TRANSPARENT_SPRITES_65
+    21300132: SCORE_200
+    21300134: TEXT_STAGE
+    21300136: PICKUP_GRENADE
+    21300138: PICKUP_LIVE
+    21300140: TRANSPARENT_SPRITES_70
+    21300142: TRANSPARENT_SPRITES_71
+    21300144: TRANSPARENT_SPRITES_72
+    21300146: SCORE_300
+    21300148: TRANSPARENT_SPRITES_74
+    21300150: TRANSPARENT_SPRITES_75
+    21300152: SCORE_400
+    21300154: TRANSPARENT_SPRITES_77
+    21300156: TRANSPARENT_SPRITES_78
+    21300158: SCORE_500
+    21300160: PlayerIdentityTEXT
+    21300162: BULLET
+    21300164: NUMBER_0
+    21300166: NUMBER_1
+    21300168: NUMBER_2
+    21300170: Number_3
+    21300172: number_4
+    21300174: number_5
+    21300176: number_6
+    21300178: number_7
+    21300180: number_8
+    21300182: number_9
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 2
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 8.5
+  alphaIsTransparency: 1
+  textureType: 5
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PLAYER_TIER1_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER1_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 108
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER1_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER1_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMYDROP_TIER1_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMYDROP_TIER1_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 107
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WATER_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FOREST
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SHIELD_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SHIELD_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 105
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER2_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 91
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER2_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 91
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER2_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 91
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER2_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 91
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMYDROP_TIER2_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 91
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMYDROP_TIER2_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 91
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WATER_ANIM3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WATER_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 88
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_SMALL_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 92
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_SMALL_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 90
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_SMALL_ANIM3
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 89
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER3_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER3_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER3_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER3_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMYDROP_TIER3_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMYDROP_TIER3_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 75
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TRANSPARENT_SPRITES_27
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK_UP_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 83
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK_UP_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 83
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TRANSPARENT_SPRITES_30
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 79
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_BIG_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 59
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_BIG_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 57
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK_DOWN_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 78
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK_DOWN_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 78
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER4_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER4_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER4_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER4_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMYDROP_TIER4_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMYDROP_TIER4_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 59
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ICE
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_BASE_DEAD
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 61
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPAWN_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPAWN_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 42
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPAWN_ANIM3
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 42
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPAWN_ANIM4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_BASE_LIVE
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 42
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_PAUSE
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 49
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_GAMEOVER
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 33
+        width: 31
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: FLAG
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 33
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_SHIELD
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_FREEZE
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_BASEBLOCK
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_LEVELUP
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 26
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_100
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 34
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_200
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 26
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_STAGE
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 24
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_GRENADE
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 10
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_LIVE
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 10
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_300
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_400
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 18
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_500
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlayerIdentityTEXT
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 7
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BULLET
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 83
+        width: 3
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NUMBER_0
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NUMBER_1
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: NUMBER_2
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Number_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number_4
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 16
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number_5
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number_6
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number_8
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: number_9
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

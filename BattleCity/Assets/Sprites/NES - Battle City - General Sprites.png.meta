@@ -1,0 +1,1167 @@
+fileFormatVersion: 2
+guid: 42258101cc079504d929edc71f9a48ce
+timeCreated: 1453649687
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PLAYER_TIER1_ANIM1_UP
+    21300002: PLAYER_TIER1_ANIM2_UP
+    21300004: PLAYER_TIER1_ANIM1_LEFT
+    21300006: PLAYER_TIER1_ANIM2_LEFT
+    21300008: PLAYER_TIER1_ANIM1_DOWN
+    21300010: PLAYER_TIER1_ANIM2_DOWN
+    21300012: PLAYER_TIER1_ANIM1_RIGHT
+    21300014: PLAYER_TIER1_ANIM2_RIGHT
+    21300016: NES - Battle City - General Sprites_8
+    21300018: NES - Battle City - General Sprites_9
+    21300020: NES - Battle City - General Sprites_10
+    21300022: NES - Battle City - General Sprites_11
+    21300024: NES - Battle City - General Sprites_12
+    21300026: NES - Battle City - General Sprites_13
+    21300028: NES - Battle City - General Sprites_14
+    21300030: NES - Battle City - General Sprites_15
+    21300032: WALL_BRICK_4X4
+    21300034: NES - Battle City - General Sprites_17
+    21300036: NES - Battle City - General Sprites_18
+    21300038: NES - Battle City - General Sprites_19
+    21300040: NES - Battle City - General Sprites_20
+    21300042: SCORE_TEXT_1P
+    21300044: NES - Battle City - General Sprites_25
+    21300046: NES - Battle City - General Sprites_26
+    21300048: NES - Battle City - General Sprites_27
+    21300050: NES - Battle City - General Sprites_28
+    21300052: NES - Battle City - General Sprites_29
+    21300054: NES - Battle City - General Sprites_30
+    21300056: NES - Battle City - General Sprites_31
+    21300058: NES - Battle City - General Sprites_32
+    21300060: NES - Battle City - General Sprites_33
+    21300062: NES - Battle City - General Sprites_34
+    21300064: NES - Battle City - General Sprites_35
+    21300066: NES - Battle City - General Sprites_36
+    21300068: NES - Battle City - General Sprites_37
+    21300070: NES - Battle City - General Sprites_38
+    21300072: NES - Battle City - General Sprites_39
+    21300074: NES - Battle City - General Sprites_40
+    21300076: NES - Battle City - General Sprites_41
+    21300078: NES - Battle City - General Sprites_42
+    21300080: NES - Battle City - General Sprites_43
+    21300082: NES - Battle City - General Sprites_44
+    21300084: NES - Battle City - General Sprites_45
+    21300086: PLAYER_TIER2_ANIM1_UP
+    21300088: PLAYER_TIER2_ANIM2_UP
+    21300090: PLAYER_TIER2_ANIM1_LEFT
+    21300092: PLAYER_TIER2_ANIM2_LEFT
+    21300094: PLAYER_TIER2_ANIM1_DOWN
+    21300096: PLAYER_TIER2_ANIM2_DOWN
+    21300098: PLAYER_TIER2_ANIM1_RIGHT
+    21300100: PLAYER_TIER2_ANIM2_RIGHT
+    21300102: NES - Battle City - General Sprites_58
+    21300104: NES - Battle City - General Sprites_59
+    21300106: NES - Battle City - General Sprites_60
+    21300108: NES - Battle City - General Sprites_61
+    21300110: NES - Battle City - General Sprites_62
+    21300112: NES - Battle City - General Sprites_63
+    21300114: NES - Battle City - General Sprites_64
+    21300116: NES - Battle City - General Sprites_65
+    21300118: GROUND_WATER_ANIM2
+    21300120: GROUND_FOREST
+    21300122: GROUND_ICE
+    21300124: PLAYER_BASE_EAGLE
+    21300126: PLAYER_BASE_FLAG
+    21300128: NES - Battle City - General Sprites_75
+    21300130: NES - Battle City - General Sprites_76
+    21300132: NES - Battle City - General Sprites_77
+    21300134: NES - Battle City - General Sprites_78
+    21300136: NES - Battle City - General Sprites_79
+    21300138: NES - Battle City - General Sprites_80
+    21300140: NES - Battle City - General Sprites_81
+    21300142: NES - Battle City - General Sprites_82
+    21300144: NES - Battle City - General Sprites_83
+    21300146: NES - Battle City - General Sprites_84
+    21300148: NES - Battle City - General Sprites_85
+    21300150: NES - Battle City - General Sprites_86
+    21300152: NES - Battle City - General Sprites_87
+    21300154: NES - Battle City - General Sprites_88
+    21300156: NES - Battle City - General Sprites_89
+    21300158: NES - Battle City - General Sprites_90
+    21300160: GROUND_WATER_ANIM1
+    21300162: GROUND_WATER_ANIM3
+    21300164: NES - Battle City - General Sprites_100
+    21300166: NES - Battle City - General Sprites_101
+    21300168: NES - Battle City - General Sprites_102
+    21300170: NES - Battle City - General Sprites_103
+    21300172: NES - Battle City - General Sprites_104
+    21300174: NES - Battle City - General Sprites_105
+    21300176: NES - Battle City - General Sprites_106
+    21300178: NES - Battle City - General Sprites_107
+    21300180: ENEMY_TIER1_ANIM1_UP
+    21300182: ENEMY_TIER1_ANIM2_UP
+    21300184: ENEMY_TIER1_ANIM1_LEFT
+    21300186: ENEMY_TIER1_ANIM2_LEFT
+    21300188: ENEMY_TIER1_ANIM1_DOWN
+    21300190: ENEMY_TIER1_ANIM2_DOWN
+    21300192: ENEMY_TIER1_ANIM1_RIGHT
+    21300194: ENEMY_TIER1_ANIM2_RIGHT
+    21300196: NES - Battle City - General Sprites_116
+    21300198: NES - Battle City - General Sprites_117
+    21300200: NES - Battle City - General Sprites_118
+    21300202: NES - Battle City - General Sprites_125
+    21300204: NES - Battle City - General Sprites_126
+    21300206: NES - Battle City - General Sprites_127
+    21300208: NES - Battle City - General Sprites_128
+    21300210: NES - Battle City - General Sprites_129
+    21300212: NES - Battle City - General Sprites_130
+    21300214: NES - Battle City - General Sprites_131
+    21300216: NES - Battle City - General Sprites_132
+    21300218: ENEMY_TIER2_ANIM1_UP
+    21300220: ENEMY_TIER2_ANIM2_UP
+    21300222: ENEMY_TIER2_ANIM1_LEFT
+    21300224: ENEMY_TIER2_ANIM2_LEFT
+    21300226: ENEMY_TIER2_ANIM1_DOWN
+    21300228: ENEMY_TIER2_ANIM2_DOWN
+    21300230: ENEMY_TIER2_ANIM1_RIGHT
+    21300232: ENEMY_TIER2_ANIM2_RIGHT
+    21300234: NES - Battle City - General Sprites_141
+    21300236: NES - Battle City - General Sprites_142
+    21300238: NES - Battle City - General Sprites_150
+    21300240: NES - Battle City - General Sprites_151
+    21300242: NES - Battle City - General Sprites_152
+    21300244: NES - Battle City - General Sprites_153
+    21300246: NES - Battle City - General Sprites_154
+    21300248: NES - Battle City - General Sprites_155
+    21300250: NES - Battle City - General Sprites_156
+    21300252: NES - Battle City - General Sprites_157
+    21300254: ENEMY_TIER3_ANIM1_UP
+    21300256: ENEMY_TIER3_ANIM2_UP
+    21300258: ENEMY_TIER3_ANIM1_LEFT
+    21300260: ENEMY_TIER3_ANIM2_LEFT
+    21300262: ENEMY_TIER3_ANIM1_DOWN
+    21300264: ENEMY_TIER3_ANIM2_DOWN
+    21300266: ENEMY_TIER3_ANIM1_RIGHT
+    21300268: ENEMY_TIER3_ANIM2_RIGHT
+    21300270: SPAWN_1
+    21300272: SPAWN_2
+    21300274: SPAWN_3
+    21300276: SPAWN_4
+    21300278: BULLET
+    21300280: BULLET_DOWN
+    21300282: NES - Battle City - General Sprites_172
+    21300284: PLAYER_TIER3_ANIM1_UP
+    21300286: PLAYER_TIER3_ANIM2_UP
+    21300288: PLAYER_TIER3_ANIM1_LEFT
+    21300290: PLAYER_TIER3_ANIM2_LEFT
+    21300292: PLAYER_TIER3_ANIM1_DOWN
+    21300294: PLAYER_TIER3_ANIM2_DOWN
+    21300296: PLAYER_TIER3_ANIM1_RIGHT
+    21300298: PLAYER_TIER3_ANIM2_RIGHT
+    21300300: ENEMY_TIER4_ANIM1_UP
+    21300302: ENEMY_TIER4_ANIM2_UP
+    21300304: ENEMY_TIER4_ANIM1_LEFT
+    21300306: ENEMY_TIER4_ANIM2_LEFT
+    21300308: ENEMY_TIER4_ANIM1_DOWN
+    21300310: ENEMY_TIER4_ANIM2_DOWN
+    21300312: ENEMY_TIER4_ANIM1_RIGHT
+    21300314: ENEMY_TIER4_ANIM2_RIGHT
+    21300316: PICKUP_SHIELD
+    21300318: PICKUP_FREEZE
+    21300320: PICKUP_BASE_ARMOUR
+    21300322: PICKUP_LEVELUP
+    21300324: PICKUP_GRENADE
+    21300326: PICKUP_LIFE
+    21300328: NES - Battle City - General Sprites_197
+    21300330: NES - Battle City - General Sprites_200
+    21300332: NES - Battle City - General Sprites_201
+    21300334: NES - Battle City - General Sprites_202
+    21300336: NES - Battle City - General Sprites_203
+    21300338: NES - Battle City - General Sprites_204
+    21300340: NES - Battle City - General Sprites_205
+    21300342: NES - Battle City - General Sprites_206
+    21300344: NES - Battle City - General Sprites_207
+    21300346: NES - Battle City - General Sprites_208
+    21300348: NES - Battle City - General Sprites_209
+    21300350: NES - Battle City - General Sprites_210
+    21300352: NES - Battle City - General Sprites_211
+    21300354: NES - Battle City - General Sprites_212
+    21300356: NES - Battle City - General Sprites_213
+    21300358: NES - Battle City - General Sprites_214
+    21300360: NES - Battle City - General Sprites_215
+    21300362: EXPLOSION_1
+    21300364: EXPLOSION_2
+    21300366: EXPLOSION_3
+    21300368: NES - Battle City - General Sprites_225
+    21300370: NES - Battle City - General Sprites_226
+    21300372: NES - Battle City - General Sprites_227
+    21300374: NES - Battle City - General Sprites_228
+    21300376: NES - Battle City - General Sprites_229
+    21300378: NES - Battle City - General Sprites_230
+    21300380: NES - Battle City - General Sprites_231
+    21300382: NES - Battle City - General Sprites_232
+    21300384: NES - Battle City - General Sprites_233
+    21300386: NES - Battle City - General Sprites_234
+    21300388: NES - Battle City - General Sprites_235
+    21300390: NES - Battle City - General Sprites_236
+    21300392: NES - Battle City - General Sprites_237
+    21300394: NES - Battle City - General Sprites_238
+    21300396: NES - Battle City - General Sprites_239
+    21300398: NES - Battle City - General Sprites_240
+    21300400: PLAYER_SHIELD_1
+    21300402: PLAYER_SHIELD_2
+    21300404: EXPLOSION_5_BIG
+    21300406: NES - Battle City - General Sprites_250
+    21300408: NES - Battle City - General Sprites_251
+    21300410: NES - Battle City - General Sprites_252
+    21300412: NES - Battle City - General Sprites_253
+    21300414: NES - Battle City - General Sprites_254
+    21300416: NES - Battle City - General Sprites_255
+    21300418: NES - Battle City - General Sprites_256
+    21300420: NES - Battle City - General Sprites_257
+    21300422: NES - Battle City - General Sprites_258
+    21300424: NES - Battle City - General Sprites_259
+    21300426: NES - Battle City - General Sprites_260
+    21300428: NES - Battle City - General Sprites_261
+    21300430: NES - Battle City - General Sprites_262
+    21300432: NES - Battle City - General Sprites_263
+    21300434: NES - Battle City - General Sprites_264
+    21300436: NES - Battle City - General Sprites_265
+    21300438: SCORE_100
+    21300440: SCORE_200
+    21300442: SCORE_300
+    21300444: SCORE_400
+    21300446: SCORE_500
+    21300448: NES - Battle City - General Sprites_275
+    21300450: NES - Battle City - General Sprites_276
+    21300452: NES - Battle City - General Sprites_277
+    21300454: NES - Battle City - General Sprites_278
+    21300456: NES - Battle City - General Sprites_279
+    21300458: NES - Battle City - General Sprites_280
+    21300460: NES - Battle City - General Sprites_281
+    21300462: NES - Battle City - General Sprites_282
+    21300464: NES - Battle City - General Sprites_283
+    21300466: NES - Battle City - General Sprites_284
+    21300468: NES - Battle City - General Sprites_285
+    21300470: NES - Battle City - General Sprites_286
+    21300472: NES - Battle City - General Sprites_287
+    21300474: NES - Battle City - General Sprites_288
+    21300476: NES - Battle City - General Sprites_289
+    21300478: NES - Battle City - General Sprites_290
+    21300480: TEXT_PAUSE
+    21300482: TEXT_STAGE
+    21300484: NES - Battle City - General Sprites_300
+    21300486: NES - Battle City - General Sprites_301
+    21300488: NES - Battle City - General Sprites_302
+    21300490: NES - Battle City - General Sprites_303
+    21300492: NES - Battle City - General Sprites_304
+    21300494: NES - Battle City - General Sprites_305
+    21300496: NES - Battle City - General Sprites_306
+    21300498: NES - Battle City - General Sprites_307
+    21300500: ENEMY_DROP_TIER1_ANIM1_UP
+    21300502: ENEMY_DROP_TIER1_ANIM2_UP
+    21300504: ENEMY_DROP_TIER1_ANIM1_LEFT
+    21300506: ENEMY_DROP_TIER1_ANIM2_LEFT
+    21300508: ENEMY_DROP_TIER1_ANIM1_DOWN
+    21300510: ENEMY_DROP_TIER1_ANIM2_DOWN
+    21300512: ENEMY_DROP_TIER1_ANIM1_RIGHT
+    21300514: ENEMY_DROP_TIER1_ANIM2_RIGHT
+    21300516: TEXT_OVER
+    21300518: UI_TANK
+    21300520: TEXT_6
+    21300522: TEXT_7
+    21300524: UI_FLAG
+    21300526: NES - Battle City - General Sprites_325
+    21300528: NES - Battle City - General Sprites_326
+    21300530: NES - Battle City - General Sprites_327
+    21300532: NES - Battle City - General Sprites_328
+    21300534: NES - Battle City - General Sprites_329
+    21300536: NES - Battle City - General Sprites_330
+    21300538: NES - Battle City - General Sprites_331
+    21300540: NES - Battle City - General Sprites_332
+    21300542: ENEMY_DROP_TIER2_ANIM1_UP
+    21300544: ENEMY_DROP_TIER2_ANIM2_UP
+    21300546: ENEMY_DROP_TIER2_ANIM1_LEFT
+    21300548: ENEMY_DROP_TIER2_ANIM2_LEFT
+    21300550: ENEMY_DROP_TIER2_ANIM1_DOWN
+    21300552: ENEMY_DROP_TIER2_ANIM2_DOWN
+    21300554: ENEMY_DROP_TIER2_ANIM1_RIGHT
+    21300556: ENEMY_DROP_TIER2_ANIM2_RIGHT
+    21300558: NES - Battle City - General Sprites_350
+    21300560: NES - Battle City - General Sprites_351
+    21300562: NES - Battle City - General Sprites_352
+    21300564: NES - Battle City - General Sprites_353
+    21300566: NES - Battle City - General Sprites_354
+    21300568: NES - Battle City - General Sprites_355
+    21300570: NES - Battle City - General Sprites_356
+    21300572: NES - Battle City - General Sprites_357
+    21300574: ENEMY_DROP_TIER3_ANIM1_UP
+    21300576: ENEMY_DROP_TIER3_ANIM2_UP
+    21300578: ENEMY_DROP_TIER3_ANIM1_LEFT
+    21300580: ENEMY_DROP_TIER3_ANIM2_LEFT
+    21300582: ENEMY_DROP_TIER3_ANIM1_DOWN
+    21300584: ENEMY_DROP_TIER3_ANIM2_DOWN
+    21300586: ENEMY_DROP_TIER3_ANIM1_RIGHT
+    21300588: ENEMY_DROP_TIER3_ANIM2_RIGHT
+    21300590: NES - Battle City - General Sprites_375
+    21300592: NES - Battle City - General Sprites_376
+    21300594: NES - Battle City - General Sprites_377
+    21300596: NES - Battle City - General Sprites_378
+    21300598: NES - Battle City - General Sprites_379
+    21300600: NES - Battle City - General Sprites_380
+    21300602: NES - Battle City - General Sprites_381
+    21300604: NES - Battle City - General Sprites_382
+    21300606: ENEMY_DROP_TIER4_ANIM1_UP
+    21300608: ENEMY_DROP_TIER4_ANIM2_UP
+    21300610: ENEMY_DROP_TIER4_ANIM1_LEFT
+    21300612: ENEMY_DROP_TIER4_ANIM2_LEFT
+    21300614: ENEMY_DROP_TIER4_ANIM1_DOWN
+    21300616: ENEMY_DROP_TIER4_ANIM2_DOWN
+    21300618: ENEMY_DROP_TIER4_ANIM1_RIGHT
+    21300620: ENEMY_DROP_TIER4_ANIM2_RIGHT
+    21300622: BACKGROUND_GRAY_32X32
+    21300624: NES - Battle City - General Sprites_400
+    21300626: WALL_STEEL
+    21300628: NES - Battle City - General Sprites_402
+    21300630: NES - Battle City - General Sprites_403
+    21300632: NES - Battle City - General Sprites_404
+    21300634: BULLET_LEFT
+    21300636: BULLET_RIGHT
+    21300638: NES - Battle City - General Sprites_22
+    21300640: TEXT_GAME
+    21300642: EXPLOSION_4_BIG
+    21300644: TEXT_5
+    21300646: TEXT_8
+    21300648: TEXT_9
+    21300650: TEXT_0
+    21300652: TEXT_1
+    21300654: TEXT_2
+    21300656: TEXT_3
+    21300658: TEXT_4
+    21300660: WALL_BRICK_DOWN_1
+    21300662: WALL_BRICK_DOWN_2
+    21300664: WALL_BRICK_TOP_1
+    21300666: WALL_BRICK_TOP_2
+    21300668: BACKGROUND_BLACK_4x4
+    21300670: WALL_BRICK 4 together
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 2
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 10
+  alphaIsTransparency: 0
+  textureType: 5
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 10
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    sprites:
+    - name: PLAYER_TIER1_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER1_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK_DOWN_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_TEXT_1P
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 112
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER2_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER2_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GROUND_WATER_ANIM2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GROUND_FOREST
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GROUND_ICE
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_BASE_EAGLE
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_BASE_FLAG
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GROUND_WATER_ANIM1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: GROUND_WATER_ANIM3
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER1_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER1_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER2_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER2_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 160
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER3_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER3_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPAWN_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPAWN_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPAWN_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SPAWN_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BULLET
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER3_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_TIER3_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER4_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_TIER4_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_SHIELD
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_FREEZE
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_BASE_ARMOUR
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_LEVELUP
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_GRENADE
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PICKUP_LIFE
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 128
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_SHIELD_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PLAYER_SHIELD_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_5_BIG
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_100
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_200
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_300
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_400
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCORE_500
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_PAUSE
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 73
+        width: 39
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_STAGE
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 73
+        width: 40
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_DROP_TIER1_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_DROP_TIER1_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_OVER
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 57
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_TANK
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_6
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_7
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: UI_FLAG
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 57
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_DROP_TIER2_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_DROP_TIER2_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_DROP_TIER3_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_DROP_TIER3_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_DROP_TIER4_ANIM1_UP
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ENEMY_DROP_TIER4_ANIM2_UP
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BACKGROUND_GRAY_32X32
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 16
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_STEEL
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 176
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_GAME
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 65
+        width: 31
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: EXPLOSION_4_BIG
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 56
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_0
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_2
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_3
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: TEXT_4
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 64
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK_DOWN_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 240
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK_TOP_1
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK_TOP_2
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: BACKGROUND_BLACK_4x4
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 173
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: WALL_BRICK 4 together
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

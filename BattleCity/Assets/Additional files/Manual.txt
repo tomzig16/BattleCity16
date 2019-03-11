@@ -1,0 +1,14 @@
+(for easier reading open Manual.docx file)
+Manual for Battle City remake (by Tomas Zigmantavièius)
+
+This project was made for job application (Unity).
+
+Player tank controls:
+W (or arrow up) - Moves player up
+A (or arrow left) - Moves player left
+S (or arrow down) - Moves player down
+D (or arrow right) - Moves player right
+Space (or Num0) - Shots
+Escape - Pauses game
+
+Scripts and their dedication:

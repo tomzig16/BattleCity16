@@ -1,0 +1,7 @@
+Menu:
+Can select with mouse or using arrows (or W and S) buttons. To accept press ENTER/RETURN, NumEnter or Space.
+
+InGame:
+Tank can be controlled with arrows or W, A, S and D buttons. 
+Shooting - Space or num 0.
+Pause game - Escape.
